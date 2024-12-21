@@ -14,12 +14,13 @@ let mulB = 6;
 let mulResult = multiplication(mulA, mulB);
 console.log(mulResult);
 
-let sabA=9;
-let subB=3;
-let sub=subtraction(sabA,subB);
+let sabA = 9;
+let subB = 3;
+let sub = subtraction(sabA, subB);
 console.log(sub);
 
-let divA=9;
-let divB=0;
-let divs=division(divA,divB);
+let divA = 9;
+let divB = 5;
+let divs = division(divA, divB);
 console.log(divs);
+
